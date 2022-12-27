@@ -16,6 +16,6 @@ https://bamba-bot.onrender.com/ <br>
 ![Backend Deployment](/Images/backend_deployment.png?raw=true "Backend Deployment") <br>
 
 https://implementing-gpt-bot-with-javascript.vercel.app/ <br>
-![Front End Deployment](/Images/front_ end_deployment.png?raw=true "Front End Deployment") <br>
+![Front End Deployment](/Images/front_end_deployment.png?raw=true "Front End Deployment") <br>
 
 **Video Reference & Credit:** https://www.youtube.com/watch?v=2FeymQoKvrk&t=760s <br>
