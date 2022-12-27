@@ -1,7 +1,5 @@
 # Implementing-GPT-bot-with-Javascript
 
-## Followed tutorial by JavaScript Mastery on YouTube <br>
-
 **Learning Outcomes:** <br>
 - Implementing an AI tool (ChatGPT text-davinci-003) with JavaScript <br>
 - Connecting Front end and Backend codes in nodeJS <br>
@@ -17,5 +15,8 @@ https://bamba-bot.onrender.com/ <br>
 
 https://implementing-gpt-bot-with-javascript.vercel.app/ <br>
 ![Front End Deployment](/Images/front_end_deployment.png?raw=true "Front End Deployment") <br>
+
+
+## Followed a tutorial by JavaScript Mastery on YouTube <br>
 
 **Video Reference & Credit:** https://www.youtube.com/watch?v=2FeymQoKvrk&t=760s <br>
